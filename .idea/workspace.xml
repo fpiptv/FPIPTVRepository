@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c67301-e074-4253-b500-2920ef58e9a9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\addon.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\addon.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\config.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\load_channels.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\resources\Language\english\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\resources\settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\server.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FPIPTVRepository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +29,8 @@
       <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repo_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4516129">
-              <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5894428">
+              <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
               <folding>
                 <element signature="e#997#1006#0" expanded="true" />
               </folding>
@@ -346,8 +338,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4516129">
-          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#997#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5894428">
+          <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
           <folding>
             <element signature="e#997#1006#0" expanded="true" />
           </folding>
