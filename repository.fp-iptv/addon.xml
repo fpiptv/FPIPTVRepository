@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fp-iptv" name="FPIPTV Official Repo" version="1.0.0" provider-name="FPIPTV">
+	<extension point="xbmc.addon.repository" name="FPIPYV Official Repo">
+		<info compressed="false">https://raw.github.com/fpiptv/FPIPTVRepository/master/addons.xml</info>
+		<checksum>https://raw.github.com/fpiptv/FPIPTVRepository/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/fpiptv/FPIPTVRepository/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>FPIPTV Official Repo</summary>
+   		<description lang="en">Install all you want in FPIPTV Repository.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
