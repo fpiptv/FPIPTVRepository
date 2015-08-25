@@ -1,0 +1,9 @@
+<strings>
+    <string id="30100">Server location</string>
+	<string id="30101">Set thumbnail as fanart</string>
+	<string id="30102">Show channel's logo</string>
+	<string id="30103">Bitrate video quality (if support by own broadcast)</string>
+    <string id="40001">Live TV</string>
+    <string id="40101">Search</string>
+    <string id="50001">Lihattv server offline</string>
+</strings>

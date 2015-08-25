@@ -1,0 +1,6 @@
+<settings>
+   <setting id="server" type="enum" label="30100" values="Indonesia|USA|Singapore|German" default="0"/>
+   <setting id="fanart" type="bool" label="30101" default="true"/>
+   <setting id="logo" type="bool" label="30102" default="true"/>
+   <setting id="quality" type="enum" label="30103" values="Low|Middle|High" default="0"/>
+</settings>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.t-killa" name="t-killa" version="b.2.0" provider-name="MocTeam">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" /> 
+    <import addon="plugin.video.youtube" />	
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.SportsDevil" optional="true"/>
+	<import addon="plugin.video.p2p-streams" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Peliculas y series en audio latino</summary>
+    <description lang="en">Fork basado en PalcoTV</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

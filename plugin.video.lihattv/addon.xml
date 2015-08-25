@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.lihattv" name="[COLOR lime]lihattv[/COLOR] [COLOR black]|[COLOR black] [COLOR white]Live TV Streaming[/COLOR]" version="1.1.0" provider-name="[COLOR darkorange]lihattv[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <language>en</language>
+        <platform>all</platform>
+        <summary lang="en">World live TV streaming</summary>
+        <description lang="en">Watch free IPTV for PC and Mobile device. You can watch live tv streaming over web browser on PC, Mac or Linux, on any Smartphone or Tablets, or on any media Player.</description>
+		<disclaimer>Please feel free to inform us about this plugins problem.</disclaimer>		
+        <license>lihattv public licensed</license>
+        <source>http://lihattv.com/?q=download</source>
+        <forum>http://forum.lihattv.com/</forum>
+        <email>info@lihattv.us</email>
+        <website>http://lihattv.com</website>
+    </extension>
+</addon>
