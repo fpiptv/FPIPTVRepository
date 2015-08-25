@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c67301-e074-4253-b500-2920ef58e9a9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\addon.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\changelog-1.1.0.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\plugin.video.stalker-master-1.1.0.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FPIPTVRepository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repo_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8605263">
-              <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5473684">
+              <caret line="303" column="85" selection-start-line="303" selection-start-column="85" selection-end-line="303" selection-end-column="85" />
               <folding>
                 <element signature="e#997#1006#0" expanded="true" />
               </folding>
@@ -104,8 +99,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +111,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad/bin/git.exe" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in FPIPTVRepository">
+  <component name="RunManager" selected="Python.repo_maker">
     <configuration default="false" name="repo_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,8 +279,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in FPIPTVRepository" />
-        <item index="1" class="java.lang.String" itemvalue="Python.repo_maker" />
+        <item index="0" class="java.lang.String" itemvalue="Python.repo_maker" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in FPIPTVRepository" />
       </list>
     </recent_temporary>
   </component>
@@ -394,8 +389,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8605263">
-          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#997#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5473684">
+          <caret line="303" column="85" selection-start-line="303" selection-start-column="85" selection-end-line="303" selection-end-column="85" />
           <folding>
             <element signature="e#997#1006#0" expanded="true" />
           </folding>
