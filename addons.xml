@@ -1,5 +1,142 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.adryanlist"
+       name="AdryanList"
+       version="1.1.0"
+       provider-name="Doc Shadrach">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>based on livestreamspro 1.7.0 by Shani</summary>
+    <description>Lista de canales de Adryan</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bassfox" name="Bass Fox" version="1.3.0" provider-name="Bass Fox">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>BASSFOX based on LivetreamsPro by Shani "All rights to this author"</summary>
+    <description lang="en">[COLOR cyan][B]BassFox[/B][/COLOR] - Es un addon de [COLOR red][B]KODI[/B][/COLOR] con el cual podrás disfrutar de canales de tv y películas gratis, si te estan cobrando por esta addons pide la devolución de tu dinero.
+Gracias por su preferencia (Agradecemos a [COLOR blue][B]Wilmer[/B][/COLOR] por la colaboración) BASSFOX based on LivetreamsPro by Shani</description>
+     <disclaimer lang="en">Using this add-on is free and at your own risk if the law prohibits the use </disclaimer>
+		<disclaimer lang="es">El uso de este Add-on es gratuito y bajo tu responsabilidad si las leyes de tu país restringuen su uso</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.DiavolettoBeatsLists"
+       name="DiavolettoBeatsLists"
+       version="1.0.1"
+       provider-name="husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="startups.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"> Enjoy Diavoletto Beats Lists</summary>
+    <description lang="en">Check out My Youtube channel https://www.youtube.com/channel/UCR41q_PB30HPHFAhiQxgEcA. Thanks to Husham Memar Husham.com for making this addon for me</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.lihattv" name="[COLOR lime]lihattv[/COLOR] [COLOR black]|[COLOR black] [COLOR white]Live TV Streaming[/COLOR]" version="1.1.0" provider-name="[COLOR darkorange]lihattv[/COLOR]">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <language>en</language>
+        <platform>all</platform>
+        <summary lang="en">World live TV streaming</summary>
+        <description lang="en">Watch free IPTV for PC and Mobile device. You can watch live tv streaming over web browser on PC, Mac or Linux, on any Smartphone or Tablets, or on any media Player.</description>
+		<disclaimer>Please feel free to inform us about this plugins problem.</disclaimer>
+        <license>lihattv public licensed</license>
+        <source>http://lihattv.com/?q=download</source>
+        <forum>http://forum.lihattv.com/</forum>
+        <email>info@lihattv.us</email>
+        <website>http://lihattv.com</website>
+    </extension>
+</addon>
+
+<addon id="plugin.video.SoloManLists"
+       name="SoloManLists"
+       version="1.0.1"
+       provider-name="husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"> Enjoy Lists</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.stalker" name="IPTV Stalker" version="1.0.18" provider-name="esxbr">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
@@ -20,6 +157,100 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.stalker" name="IPTV Stalker" version="1.0.18" provider-name="esxbr">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">IPTV Stalker</summary>
+		<description lang="en">IPTV Stalker</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://iptvtalk.org/showthread.php?2514-Kodi-Stalker-video-add-on-all-platforms</forum>
+		<source>https://github.com/esxbr/plugin.video.stalker</source>
+		<email>patrick.cabral@gmail.com</email>
+	</extension>
+</addon>
+
+<addon id="plugin.video.t-killa" name="t-killa" version="b.2.0" provider-name="MocTeam">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" />
+    <import addon="plugin.video.youtube" />
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.SportsDevil" optional="true"/>
+	<import addon="plugin.video.p2p-streams" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Peliculas y series en audio latino</summary>
+    <description lang="en">Fork basado en PalcoTV</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vevo" name="VEVO" version="0.8.2" provider-name="BlueCop">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.facebook.media" version="0.9.2"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Music Videos from VEVO</summary>
+    <summary lang="de">Musik Videos von VEVO</summary>
+    <description lang="en">Watch your favorite artist's music videos, see premiere performances and search for new music on VEVO.com</description>
+    <description lang="de">Schaue Top Videos und Performances Deiner Lieblingskünstler und entdecke neue Musik auf VEVO.com</description>
+    <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <disclaimer lang="de">Einige Teile dieses Addons sind möglicherweise in Ihrem Land nicht legal - bitte prüfen Sie Ihre lokal gültigen Gesetze vor der Installation.</disclaimer>
+    <source>https://github.com/moneymaker365/plugin.video.vevo</source>
+  </extension>
+</addon>
+
+<addon id="repository.dss" name="Dutch Sport Streams" version="1.2" provider-name="Dutch Cloud TV">
+	<extension point="xbmc.addon.repository" name="Dutch Sport Streams Repository">
+		<info compressed="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/dutchsportstreams/DSS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/dutchsportstreams/DSS/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository Dutch Sport Streams</summary>
+		<description>Download and install addons from Dutch Sport Streams[CR]http://facebook.com/dutchcloudtv</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.entertainmentrepo" name="The Entertainment Repository" version="1.1" provider-name="Mr Entertainment">
+	<extension point="xbmc.addon.repository" name="Entertainment Addons Repository">
+        <dir>
+	      <info compressed="false">https://raw.github.com/MrEntertainment/EntertainmentREPO/master/addons.xml</info>
+	      <checksum>https://raw.github.com/MrEntertainment/EntertainmentREPO/master/addons.xml.md5</checksum>
+	      <datadir zip="true">https://raw.github.com/MrEntertainment/EntertainmentREPO/master/zips</datadir>
+        </dir>
+        <info compressed="false">https://raw.github.com/TheYid/My-Repo/master/addons.xml</info>
+        <checksum>https://raw.github.com/TheYid/My-Repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/TheYid/My-Repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description>Download and install addons by Mr Entertainment</description>
+		<disclaimer>By using this, you take reponsibility for anything that happens. Some parts of this addon may not be legal in your country - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way shape or form. This is project is for a LEARNING EXPERIANCE.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.fp-iptv" name="FPIPTV Official Repo" version="1.0.0" provider-name="FPIPTV">
 	<extension point="xbmc.addon.repository" name="FPIPYV Official Repo">
 		<info compressed="false">https://raw.github.com/fpiptv/FPIPTVRepository/master/addons.xml</info>
@@ -31,6 +262,173 @@
    		<description lang="en">Install all you want in FPIPTV Repository.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.Halowrepo" name="  [COLOR lime][B]HALOW [/COLOR][COLOR white]Repository[/B][/COLOR]" version="1.6.0" provider-name="HalowRepo">
+	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]Halow[/COLOR][COLOR white]Repository[/B][/COLOR]">
+        <info compressed="false">https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from Halow Repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.iptvxtra" name="IPTVxtra XBMC Add-ons" version="1.1.0" provider-name="IPTVxtra">
+    <extension point="xbmc.addon.repository"
+        name="IPTVxtra XBMC Add-ons">
+        <info compressed="false">http://srv1.iptvxtra.net/xbmc/addons/addons.xml</info>
+        <checksum>http://srv1.iptvxtra.net/xbmc/addons/addons.md5</checksum>
+        <datadir zip="true">http://srv1.iptvxtra.net/xbmc/addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install XBMC add-ons from the IPTVxtra repository</summary>
+        <description>Install XBMC add-ons from IPTVxtra repository</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.kodipopcorntime" name="KODI Popcorn Time Repository" version="1.0.2" provider-name="Diblo">
+     <extension point="xbmc.addon.repository" name="KODI Popcorn Time Repository">
+        <info compressed="false">http://raw.githubusercontent.com/Diblo/KODI-Popcorn-Time/Repository/addons.xml</info>
+        <checksum>http://raw.githubusercontent.com/Diblo/KODI-Popcorn-Time/Repository/addons.xml.md5</checksum>
+        <datadir zip="true">http://raw.githubusercontent.com/Diblo/KODI-Popcorn-Time/Repository/</datadir>
+    </extension>
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <website><![CDATA[https://github.com/Diblo/KODI-Popcorn-Time]]></website>
+        <forum><![CDATA[http://forums.tvaddons.ag/threads/32586-KODI-Popcorn-Time]]></forum>
+        <source><![CDATA[https://github.com/Diblo/KODI-Popcorn-Time]]></source>
+        <language>English</language>
+        <license><![CDATA[GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007]]></license>
+        <summary lang="en"><![CDATA[KODI Popcorn Time Auto Update.]]></summary>
+        <description lang="en"><![CDATA[KODI Popcorn Time Auto Update.]]></description>
+        <noicon>false</noicon>
+        <nofanart>false</nofanart>
+    </extension>
+</addon>
+
+<addon id="repository.podgod" name="podgod repo" version="1.3" provider-name="podgod">
+	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
+		<info compressed="false">http://podgod.webege.com/Repo/My-Repo/addons.xml</info>
+		<checksum>http://podgod.webege.com/Repo/My-Repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://podgod.webege.com/Repo/My-Repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install My Addons</summary>
+		<description>Download and install addons from podgod!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.shadowcrew" name="ShadowCrew" version="3.0.0" provider-name="ShadowCrew">
+	<extension point="xbmc.addon.repository" name="ShadowCrew Repository">
+		<info compressed="false">http://shadowsrepo.info/repo/addons.xml</info>
+		<checksum>http://shadowsrepo.info/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://shadowsrepo.info/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <summary lang="en"> Join us at http://rh-project.info/</summary>
+    <description lang="en">Special Thank you to Hakamac, Metal Kettle and Xunity</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="1.0.4" provider-name="cubicle-vdo">
+    <extension point="xbmc.addon.repository" name="XBMC Israeli streaming repo for streaming sites">
+        <info compressed="false">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Israeli Streaming Sites</summary>
+        <description>Download and install addons for XBMC Israeli streaming repo for streaming sites</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.zeus" name="[COLOR black]..[/COLOR][COLOR yellow]ZEUS VIDEO [/COLOR][COLOR white]Repository[/COLOR]" version="1.0.0" provider-name="ZEUS VIDEO">
+	<extension point="xbmc.addon.repository" name="[COLOR black].[/COLOR][COLOR yellow]ZEUS [/COLOR][COLOR white]Repository[/COLOR]">
+        <info compressed="false">http://repo.zeusrepo.com/addons.xml</info>
+		<checksum>http://repo.zeusrepo.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.zeusrepo.com/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ZEUS KODI XBMC ADDON From Hakamac</summary>
+		<description>Live Streams, Sport, TV Shows, Movies News, the list goes on... For Support and news go to http://zeus.video</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.renegadestv" name="Renegades TV Guide" version="1.0.3" provider-name="Antony, rayw1986, bluezed">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="be">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="ca">Guia de TV amb suport de XMLTV i flux de dades</summary>
+		<summary lang="da">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="de">Renegades TV Guide erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</summary>
+		<summary lang="el">Οδηγός Τηλεόρασης με XMLTV και υποστήριξη ροών</summary>
+		<summary lang="en">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="en_US">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</summary>
+		<summary lang="es">TV Guide con XMLTV y soporte para streaming</summary>
+		<summary lang="fr">Guide TV avec support du XMLTV et du streaming</summary>
+		<summary lang="fr_CA">Guide télé avec prise en charge de XMLTV et de la lecture en transit</summary>
+		<summary lang="gl">Guía de TV con soporte XMLTV e transmisións</summary>
+		<summary lang="he">מדריך תכניות עם תמיכה ב-XMLTV והזרמה</summary>
+		<summary lang="hr">TV vodič sa XMLTV podrškom i podrškom streamanja</summary>
+		<summary lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</summary>
+		<summary lang="it">Guida TV con supporto XMLTV e streaming</summary>
+		<summary lang="ko">XMLTV와 스트리밍을 지원하는 TV Guide</summary>
+		<summary lang="nl">TVgids met XMLTV en streaming ondersteuning</summary>
+		<summary lang="pl">TV Guide obsługujący XMLTV oraz transmisję strumieniową</summary>
+		<summary lang="pt">Guia TV com suporte XMLTV e transmissões</summary>
+		<summary lang="pt_BR">Guia de TV com XMLTV e suporte para transmissão online</summary>
+		<summary lang="sk">TV Program s podporou XMLTV a streamovania</summary>
+		<summary lang="sv">TV-guide med XML-TV och strömningsstöd</summary>
+		<summary lang="zh">支持XMLTV和流的电视指南</summary>
+		<description lang="be">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="ca">Guia de TV amb suport de XMLTV i flux de dades</description>
+		<description lang="da">TV Guide med XMLTV og streaming support</description>
+		<description lang="de">Renegades TV Guide erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</description>
+		<description lang="el">Οδηγός Τηλεόρασης με XMLTV και υποστήριξη ροών</description>
+		<description lang="en">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="en_US">Renegades TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG</description>
+		<description lang="es">TV Guide con XMLTV y soporte para streaming</description>
+		<description lang="fr">Guide TV avec support du XMLTV et du streaming</description>
+		<description lang="fr_CA">Guide télé avec prise en charge de XMLTV et de la lecture en transit</description>
+		<description lang="gl">Guía de TV con soporte XMLTV e transmisións</description>
+		<description lang="he">מדריך תכניות עם תמיכה ב-XMLTV והזרמה</description>
+		<description lang="hr">TV vodič sa XMLTV podrškom i podrškom streamanja</description>
+		<description lang="id">Panduan Siaran TV dengan dukungan XMLTV dan streaming</description>
+		<description lang="it">Guida TV con supporto XMLTV e streaming</description>
+		<description lang="ko">XMLTV와 스트리밍을 지원하는 TV Guide</description>
+		<description lang="nl">TVgids met XMLTV en streaming ondersteuning</description>
+		<description lang="pl">TV Guide obsługujący XMLTV oraz transmisję strumieniową</description>
+		<description lang="pt">Guia TV com suporte XMLTV e transmissões</description>
+		<description lang="pt_BR">Guia de TV com XMLTV e suporte para transmissão online</description>
+		<description lang="sk">TV Program s podporou XMLTV a streamovania</description>
+		<description lang="sv">TV-guide med XML-TV och strömningsstöd</description>
+		<description lang="zh">支持XMLTV和流的电视指南</description>
+		<disclaimer lang="en">Renegades TV Guide is based on FTV Guide by Bluezed and RayW1986, which is based on the original TV Guide addon by twinther.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
 	</extension>
 </addon>
 </addons>

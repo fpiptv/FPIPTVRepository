@@ -2,10 +2,908 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c67301-e074-4253-b500-2920ef58e9a9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\commonresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\m3ulistex_.m3u" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\startups.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.DiavolettoBeatsLists\youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\commonresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.adryanlist\youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\commonresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\m3ulistex_.m3u" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\oneplay.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\pyaes.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\allmyvideos.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\netutv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\nowvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\oboom.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\playedto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\powvideo.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\pulsar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\putlocker.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\resolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\streamcloud.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\streaminto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\torrent.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\tumitv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\videomega.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\vidspot.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\vk.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\resources\tools\xbmctorrent.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.bassfox\youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.lihattv\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.lihattv\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.lihattv\resources\language\English\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.lihattv\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\CustomPlayer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\_DMsearch.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\_ytplist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\cloudflare.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\commonresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\genesisresolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\keepalive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\playtvfr.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\vipracing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\wattv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.solomanlists\youtubedl.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\addon.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\load_channels.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\resources\Language\english\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.stalker-master\server.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\adult.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\agenda.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\agenda2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\agendatv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\albums_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\15.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\17.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\18.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\19.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\20.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\21.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\22.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\23.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\24.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\25.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\26.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\27.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\28.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\29.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\30.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\31.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\32.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\33.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\34.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\35.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\36.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\37.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\38.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\39.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\40.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\41.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\42.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\43.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\44.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\45.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\46.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\47.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\48.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\49.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\50.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\51.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\52.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\53.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\54.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\55.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\56.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\57.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\58.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\59.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\60.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\61.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\62.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\63.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\64.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\65.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\66.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\67.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\68.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\69.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\70.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\71.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\72.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\73.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\74.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\75.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\76.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\77.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\78.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\79.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\80.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\81.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\82.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\83.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\84.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\85.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\86.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\87.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\88.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\89.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\90.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\91.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\92.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\93.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\94.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\95.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\96.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\97.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\98.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\99.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\black-background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\open.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\opencbx.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\settings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbx\versao.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\cbz.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\fanart.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\help_cbx.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\intro.mp4" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\jsn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\m3u7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\my_albums.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\name_rtmp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\p2p.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\plx3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\slideshow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\special.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\title_link.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\update.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\xml.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\art\youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\downloadtools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\framescrape.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\ioncube.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\player.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\plugintools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\language\English\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\language\Spanish\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\broadcastlive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\businessapp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\byetv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\castalba.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\castdos.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\dinozap.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\directwatch.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\ezcast.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\freebroadcast.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\freetvcast.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\iguide.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\janjua.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\miplayernet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\ninestream.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\rdmcast.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\sawlive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\streamingfreetv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\ucaster.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\vaughnlive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\regex\vercosas.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\720p\menulateral.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\720p\menulateral_comosd+-.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-fechar-seleccionado.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-fechar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-fundo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-programa-seleccionado.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-programa.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-separador.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-stop-seleccionado.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-stop.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-vermelho-seleccionado.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\skins\Default\media\lateral-vermelho.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\bers_sy.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\bum.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\dailymotion.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_arenasport.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_ehf.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_elmundo.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_entutele.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_formulatv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_miguiatv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_mundoplus.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_txt.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\epg_verahora.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\getposter - copia.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\getposter.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\getposter_extended.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\goear.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\jsunpack.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\kickass.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\loadtxt_ftv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\moviedb.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\msg.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\multilink.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\mundoplus.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\nstream.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\resolvers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\scrape.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\scrapertools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\seriesadicto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\seriesblanco.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\seriesflv.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\seriesmu.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\seriesyonkis.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\server_rtmp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\txt_reader.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\unwise.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\update.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\updater.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\url_tester.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\resources\tools\yt_playlist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\scrapertools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\unpackerjs.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\unwise.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.t-killa\version.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\default.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\demjson.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\facebook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_auth.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_beautifulsoup.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_clientcookie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_debug.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_firefox3cookiejar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_form.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_gzip.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_headersutil.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_html.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_http.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_lwpcookiejar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_markupbase.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_mechanize.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_mozillacookiejar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_msiecookiejar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_opener.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_pullparser.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_request.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_response.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_rfc3986.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_sgmllib_copy.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_sockettimeout.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_testcase.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_urllib2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_urllib2_fork.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_useragent.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_util.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\mechanize\_version.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\poster\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\poster\encode.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\poster\streaminghttp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\resources\language\English\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\resources\language\German\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\plugin.video.vevo\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.dss\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.entertainmentrepo\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.kodipopcorntime\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.kodipopcorntime\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.podgod\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.podgod\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\repository.xbmc-israel\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\ResetDatabase.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\addon.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\gui.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\notification.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Afrikaans\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Albanian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Amharic\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Arabic\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Basque\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Belarusian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Bosnian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Bulgarian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Burmese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Catalan\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Chinese (Simple)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Chinese (Traditional)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Croatian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Czech\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Danish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Dutch\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\English (Australia)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\English (New Zealand)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\English (US)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\English\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Esperanto\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Estonian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Faroese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Finnish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\French (Canada)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\French\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Galician\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Georgian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\German\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Greek\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Haitian (Haitian Creole)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Hebrew\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Hindi (Devanagiri)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Hungarian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Icelandic\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Indonesian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Italian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Japanese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Korean\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Latvian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Lithuanian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Macedonian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Malay\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Malayalam\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Maltese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Norwegian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Persian (Iran)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Persian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Polish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Portuguese (Brazil)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Portuguese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Romanian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Russian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Serbian (Cyrillic)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Serbian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Slovak\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Slovenian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Spanish (Argentina)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Spanish (Mexico)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Spanish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Swedish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Tamil (India)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Thai\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Turkish\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Ukrainian\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Uzbek\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Vietnamese (Viet Nam)\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Vietnamese\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\language\Welsh\strings.po" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\bookmark-star.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\desc-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\eminence-top.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\eye.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\favourites.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\label-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\livetv.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\stream-video.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\video-addons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\(Kodi Skin) Eminence\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Default\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\label-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans (Touch)\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\label-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Goodmans\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Default\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\label-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans Touch\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\label-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Goodmans\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\main-menu-extra.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\main-menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\main-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\menu1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Sky\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Renegades Touch\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\main-menu-extra.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\main-menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\main-menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\menu1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-leftrightarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Sky\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\720p\script-tvguide-channels.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\720p\script-tvguide-main.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\720p\script-tvguide-menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\720p\script-tvguide-streamaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\720p\script-tvguide-streamsetup.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\background-cover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\background-cover2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\ftvguide-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\menu-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\menu-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\menu-stream.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\osd-main.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-background-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-background-left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-background-right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-channel-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-channel-hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-channel-leftarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-channel-updownarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-channel-visible.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-glasspane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-logo-epg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-program-grey-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-program-grey.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-program-red-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-program-red.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-timebar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_down.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_down_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_left_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_now-old.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_now.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_now_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_right_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_up.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-touch_up_focus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\tvguide-white-progress.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\resources\skins\Touch\media\video-mask.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\service.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\source.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\streaming.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KODI-WORK\Desktop\FPIPTVRepository\FPIPTVRepository\script.renegadestv\strings.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FPIPTVRepository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +927,8 @@
       <file leaf-file-name="repo_maker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repo_maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5894428">
-              <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.45789474">
+              <caret line="301" column="34" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
               <folding>
                 <element signature="e#997#1006#0" expanded="true" />
               </folding>
@@ -54,10 +952,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1340" />
-    <option name="height" value="680" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1378" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -82,7 +980,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,6 +1000,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -277,16 +1175,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1340" height="680" extended-state="0" />
+    <frame x="-9" y="-9" width="1378" height="738" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24264705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -348,8 +1246,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repo_maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5894428">
-          <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#997#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repo_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45789474">
+          <caret line="301" column="34" selection-start-line="301" selection-start-column="34" selection-end-line="301" selection-end-column="34" />
           <folding>
             <element signature="e#997#1006#0" expanded="true" />
           </folding>

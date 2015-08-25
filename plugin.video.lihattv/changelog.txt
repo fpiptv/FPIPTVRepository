@@ -1,3 +1,0 @@
-test for XBMC 13 Gotham
-1.1.0
-- 08.06.2014 | Rebuild from other version.
